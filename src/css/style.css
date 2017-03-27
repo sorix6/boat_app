@@ -1,0 +1,15 @@
+body{
+	min-width: 400px;
+}
+
+form{
+	width: 50%;
+}
+
+.response{
+	margin-top: 20px;
+}
+
+.listing{
+	padding: 10px;
+}
